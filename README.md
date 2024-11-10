@@ -2,7 +2,7 @@
 <h3 align="center">Studying technical degree in software development </h3>
 
 <h2>📖 | About me</h2> 
-🌐 I have experience in web development with personal projects, and I am currently studying to gain knowledge in technologies for software development. I started by studying the web world on my own, took courses, and dedicated hours of study to create projects and demonstrate everything I learned. When I finally overcame imposter syndrome in Frontend, I was able to gradually shift my focus to Backend, a world that was completely unknown to me. By dedicating many more hours to study and practice, I managed to take on basic projects, slowly transforming what I learned into a project that allows me to apply both Frontend and Backend skills. <br>
+🌐 I have experience in web development with personal projects, and I am currently studying to gain knowledge in technologies for software development. I started by studying the web world on my own, took courses, and dedicated hours of study to create projects and demonstrate everything I learned. I was able to gradually shift my focus to Backend, a world that was completely unknown to me. By dedicating many more hours to study and practice, I managed to take on basic projects, slowly transforming what I learned into a project that allows me to apply both Frontend and Backend skills. <br>
 
 On this GitHub, you will find projects that have many hours of effort and dedication invested in them, showcasing that I am a qualified web developer for a company.
 
